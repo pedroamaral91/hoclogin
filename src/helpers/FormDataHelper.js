@@ -7,5 +7,5 @@ export const FormDataHelper = (params) => {
   const requestInfo = { method: 'POST', body: form };
   return requestInfo;
 }
-
+// ip localhost..
 export const urlAPI = 'http://172.16.2.75/api';
